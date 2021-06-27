@@ -12,4 +12,4 @@ This can only succeed through community effort, so feel free to submit a PR to a
 
 ## How to add a smart contract
 
-- [ ] Submit a PR similar to (WIP)
+- Submit a PR similar to [this](https://github.com/approval-tracker/assets/pull/1)
