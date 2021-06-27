@@ -1,0 +1,10 @@
+{
+  "id": "0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F",
+  "name": "Pancake",
+  "audits": [
+    {
+      "name": "Certik",
+      "link": "https://www.certik.org/projects/pancakeswap"
+    }
+  ]
+}
